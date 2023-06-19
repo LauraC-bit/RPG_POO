@@ -1,0 +1,15 @@
+Créer une class Character representant un personnage
+Puis créer une class Mage, Warrior et Rogue, qui herite de la class Character
+Chaque personnage a des points de vie (hp), et un niveau (lvl).
+
+Le mage va avoir une prorpriete mana
+Le rogue une props energy
+Le warrior une props rage
+
+Tous auront une methode attack, et des points de vie de base de 100.
+
+Creer une class Weapon, avec pour props power, durability et name. Puis une methode repair.
+
+Le mage aura un baton, le warrior une hache et le rogue une dague.
+
+Créer chacun des personnages issus des class, et les console.logger
